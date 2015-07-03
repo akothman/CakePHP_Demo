@@ -1,4 +1,9 @@
 {
+<<<<<<< HEAD
+    "require": {
+        "cakephp/cakephp": "~3.0"
+    }
+=======
     "name": "cakephp/app",
     "description": "CakePHP skeleton app",
     "homepage": "http://cakephp.org",
@@ -37,4 +42,5 @@
     },
     "minimum-stability": "dev",
     "prefer-stable": true
+>>>>>>> master
 }
